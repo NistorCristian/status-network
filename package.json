@@ -15,10 +15,10 @@
   },
   "dependencies": {
     "cheerio": "^0.20.0",
-    "d3": "^5.1.0",
+    "d3": "^7.6.1",
     "d3-ease": "^1.0.2",
-    "d3-interpolate": "^1.1.2",
-    "d3-scale": "^1.0.4",
+    "d3-interpolate": "^3.0.1",
+    "d3-scale": "^4.0.2",
     "es6-promise": "^4.2.8",
     "gulp": "^3.9.1",
     "hexo": "^3.9.0",
